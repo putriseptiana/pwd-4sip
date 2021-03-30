@@ -1,0 +1,4 @@
+1. git & github
+2. branch
+3. pull request
+4. fotografi
